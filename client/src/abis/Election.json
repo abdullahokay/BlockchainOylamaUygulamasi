@@ -2770,6 +2770,10 @@
       "address": "0x097561B2Fe18888c132FE626dD49232CCf954293",
       "transactionHash": "0xd244feca457ea25f51fb47dd48afedc9c711753a5c9cbf0ab75ec65379d6e3ac"
     }
+    ,"3": {
+      "address": "0x2a69a315c0835bf4a66c7d579ddd230eda0e9ce6",
+      "transactionHash": "0x468f4d8f127681b4d033836d3da45166ec3a6e59a4b82204601662d7ac7aa017"
+    }
   },
   "schemaVersion": "3.4.4",
   "updatedAt": "2022-06-11T12:28:12.948Z",
